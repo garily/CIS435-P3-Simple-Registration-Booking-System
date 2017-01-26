@@ -1,0 +1,110 @@
+html {
+    font-family: Consolas, monaco, monospace;
+    font-variant: normal;
+    
+}
+
+#formInput {
+    margin: 0 auto;
+    text-align: center;
+    display: inline;
+}
+
+.center {
+	text-align: center;
+	margin: auto;
+}
+
+table {
+    margin: 0 auto;
+    border-style: none;
+    border-collapse: collapse;
+}
+
+#listTable {
+	border-style: groove !important;	
+}
+
+#listTable th, td, tr {
+	padding: 10px;
+	margin: 10px;
+}
+
+#umid {
+	max-width: 100px;
+	min-width: 80px;
+	font-size: 0.8em;
+}
+
+#name {
+	max-width: 100px;
+	min-width: 80px;
+	font-size: 0.9em;
+}
+
+#projtitle {
+	max-width: 450px;
+	min-width: 20px;
+	font-size: 0.9em;
+	word-wrap: break-word;
+}
+
+#emailaddr {
+	max-width: 150px;
+	min-width: 120px;
+	font-size: 0.9em;
+}
+
+#phonenumber {
+	max-width: 80px;
+	min-width: 60px;
+	font-size: 0.9em;
+}
+
+#reginfo {
+	max-width: 150px;
+	min-width: 120px;
+	font-size: 0.8em;
+	word-wrap: break-word;
+}
+
+input {
+	color: #000000;
+	background-color: #f0f0f0;
+}
+
+td {
+    padding: 10px 10px;
+    font-size: 25px;
+}
+
+.left {
+    text-align: right;
+}
+
+#php {
+	width: 300px;
+	height: 400px;
+}
+
+input {
+    width: 400px;
+    height: 27px;
+}
+
+.btn {
+	width: 200px !important;
+	text-align: center;
+	margin: 0 auto;
+}
+
+select {
+	margin: 0;
+    font-size: 15px;
+    width: 400px;
+    height: 27px;
+}
+
+option {
+	text-align: center;
+}
